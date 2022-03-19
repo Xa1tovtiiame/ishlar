@@ -1,0 +1,14 @@
+.box{
+    height: 200px;
+    width: 200px;
+    background-color: red;
+    transition: 0.8s;
+}
+.box:hover{
+transform: translateX(90px);
+
+}
+.box-img{
+    height: 200px;
+    width: 200px;
+}
